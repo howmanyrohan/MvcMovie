@@ -87,5 +87,5 @@ The tutorial consists of multiple steps, each focusing on a specific topic. Here
 
 By following this tutorial, I gained a solid understanding of ASP.NET Core MVC and be able to build your own movie listing application using the MVC architectural pattern.
 
-#Extra 
+# Extra 
 -[FAILED DEMO Attempt + Bug Fix](https://youtu.be/cUbJNVcp7Rk)
