@@ -77,7 +77,7 @@ The tutorial consists of multiple steps, each focusing on a specific topic. Here
 
 ## Reference
 
--[ASP>NET Core MVC Tutorial](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app)
+-[ASP.NET Core MVC Tutorial](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app)
 
 
 ## Conclusion
