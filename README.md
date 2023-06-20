@@ -2,6 +2,9 @@
 
 This tutorial provides step-by-step instructions on creating an MVC (Model-View-Controller) web application for managing movie data using ASP.NET Core. It covers the fundamental concepts and key features of ASP.NET Core MVC, guiding you through the process of building a functional movie listing application.
 
+# DEMO 
+-[DEMO](https://youtu.be/7oAtFwPVyF0)
+
 ## Prerequisites
 
 Before you begin, make sure you have the following prerequisites installed on your development machine:
