@@ -14,7 +14,7 @@ Before you begin, make sure you have the following prerequisites installed on yo
 1. Clone the repository or download the project files from the tutorial page.
 
    ```
-   git clone <repository_url>
+   git clone https://github.com/howmanyrohan/MvcMovie.git
    ```
 
 2. Open the project in Visual Studio.
