@@ -1,5 +1,3 @@
-Apologies for the confusion. Here's an example of a README file for the MVC Movie tutorial in ASP.NET Core, based on the Microsoft website documentation.
-
 # MVC Movie Web App Tutorial
 
 This tutorial provides step-by-step instructions on creating an MVC (Model-View-Controller) web application for managing movie data using ASP.NET Core. It covers the fundamental concepts and key features of ASP.NET Core MVC, guiding you through the process of building a functional movie listing application.
